@@ -1,0 +1,2 @@
+# Theoru_of_probability_and_mat_stat
+для курсового проекта
